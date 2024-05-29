@@ -1,0 +1,9 @@
+{
+	"name": "msuerosfactoriadatos",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "cc5ed323-6e44-4794-8d1c-21d702b7bfee",
+		"tenantId": "4d0d72ca-4111-4d09-80be-d91acd4612a7"
+	}
+}
